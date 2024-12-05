@@ -1,0 +1,9 @@
+### 6. *Upload to GitHub*
+   After you've created your project, upload the files to GitHub:
+   
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git remote add origin https://github.com/yourusername/linear-regression-analysis.git
+   git push -u origin master
