@@ -1,0 +1,8 @@
+linear-regression-analysis/
+├── data/                # Your datasets
+├── notebooks/           # Jupyter notebooks (optional)
+├── src/                 # Source code for analysis
+├── README.md            # Project overview and instructions
+├── requirements.txt     # List of dependencies
+├── linear_regression.py  # Python script for linear regression analysis
+└── results/             # Output of analysis (e.g., plots, results)
