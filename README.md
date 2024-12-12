@@ -7,7 +7,7 @@ This project demonstrates a simple implementation of linear regression using Pyt
 
 - data/: Contains the dataset for analysis.
 - src/: Python scripts for loading, preprocessing data, and performing linear regression.
-- results/: Stores results, plots, and analysis outcomes
+- results/: Stores results, plots, and analysis outcomes.
 
 ## How to Run
 
